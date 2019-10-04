@@ -1,0 +1,10 @@
+unnamed-chunk-1	
+unnamed-chunk-2	housing	housing_test	housing_train	train_idx	trainSize	Boston
+unnamed-chunk-3	housing_test	housing_train	sum_test	sum_train
+unnamed-chunk-4	
+unnamed-chunk-5	log_test_mod	log_train_mod
+unnamed-chunk-6	log_test_mod_plus	log_train_mod_plus
+unnamed-chunk-7	preds_test_DF	preds_train_DF
+unnamed-chunk-8	preds_test_DF	preds_train_DF
+unnamed-chunk-9	testROC	trainROC
+unnamed-chunk-10	

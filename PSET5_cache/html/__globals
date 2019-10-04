@@ -1,0 +1,10 @@
+unnamed-chunk-1	library
+unnamed-chunk-2	%>%	>	Boston	chas	data	factor	floor	ifelse	medv	mutate	nrow	sample	set.seed	slice
+unnamed-chunk-3	%>%	group_by	list	mean	PriceyHome	summarise_all
+unnamed-chunk-4	$	>	aes	c	F	geom_point	ggplot	housing_train	scale_colour_manual	setNames	T	xlab	ylab
+unnamed-chunk-5	~	binomial	glm	housing_test	housing_train
+unnamed-chunk-6	~	binomial	glm	housing_test	housing_train	summary
+unnamed-chunk-7	data.frame	housing_test	housing_train	log_test_mod_plus	log_train_mod_plus	predict
+unnamed-chunk-8	$	%>%	&	<=	==	>	data.frame	ifelse	mutate	PriceyHome	scores_test	scores_train	table
+unnamed-chunk-9	aes	c	geom_roc	ggplot	preds_test_DF	preds_train_DF	PriceyHome	scores_test	scores_train
+unnamed-chunk-10	calc_auc	testROC	trainROC
